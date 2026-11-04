@@ -1,7 +1,7 @@
 {
-    "osc" :{ "ip":"10.0.0.218","porta":"9030"},
-    "buttons":[{"width":"200","heigth":"70"},
-    {"button1":"Inicio","button2":"Althea"}]
-
-
+  "osc": { "ip": "10.0.0.218", "porta": 9030 },
+  "botoes": [
+    { "nome": "INÍCIO", "endereco": "/1", "larguraDp": 200, "alturaDp": 70 },
+    { "nome": "TESTE", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 }
+  ]
 }
