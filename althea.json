@@ -2,6 +2,7 @@
   "osc": { "ip": "10.0.0.218", "porta": 9030 },
   "botoes": [
     { "nome": "INÍCIO", "endereco": "/1", "larguraDp": 200, "alturaDp": 70 },
-    { "nome": "Althea", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 }
+    { "nome": "Althea", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 },
+    {"nome":"Experiência","endereco":"/3","larguraDp":200,"alturaDp":70}
   ]
 }
