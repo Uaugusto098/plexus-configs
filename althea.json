@@ -1,8 +1,8 @@
 {
   "osc": { "ip": "10.0.0.218", "porta": 9030 },
   "botoes": [
-    { "nome": "INICIOTESTE", "endereco": "/1", "larguraDp": 200, "alturaDp": 70 },
-    { "nome": "Althea", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 }
+    { "nome": "INÍCIO", "endereco": "/1", "larguraDp": 200, "alturaDp": 70 },
+    { "nome": "ALTHEA", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 }
   ],
   "cores": {
   "botao": "#065741",
