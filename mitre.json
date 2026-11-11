@@ -1,0 +1,16 @@
+{
+  "osc": { "ip": "192", "porta": 9030 },
+  "botoes": [
+    { "nome": "STANDBY", "endereco": "/1", "larguraDp": 200, "alturaDp": 70 },
+    { "nome": "PROJETISTAS", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 },
+    { "nome": "PERSPECTIVAS", "endereco": "/3", "larguraDp": 200, "alturaDp": 70 },
+    { "nome": "LOCALIZAÇÃO", "endereco": "/4", "larguraDp": 200, "alturaDp": 70 }
+
+  ],
+"cores": {
+  "botao": "#4D4B3A",
+  "botaoPressionado": "#323126",
+  "texto": "#F2E6D4",
+  "borda": "#D29F25"
+}
+}
