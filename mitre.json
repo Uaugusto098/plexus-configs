@@ -1,10 +1,9 @@
 {
-  "osc": { "ip": "192", "porta": 9030 },
+  "osc": { "ip": "192.168.0.2", "porta": 7002 },
   "botoes": [
-    { "nome": "STANDBY", "endereco": "/1", "larguraDp": 200, "alturaDp": 70 },
-    { "nome": "PROJETISTAS", "endereco": "/2", "larguraDp": 200, "alturaDp": 70 },
-    { "nome": "PERSPECTIVAS", "endereco": "/3", "larguraDp": 200, "alturaDp": 70 },
-    { "nome": "LOCALIZAÇÃO", "endereco": "/4", "larguraDp": 200, "alturaDp": 70 }
+    { "nome": "PROJETISTAS", "endereco": "/composition/columns/1/connect", "larguraDp": 190, "alturaDp": 60 },
+    { "nome": "PERSPECTIVAS", "endereco": "/composition/columns/3/connect", "larguraDp": 190, "alturaDp": 60 },
+    { "nome": "LOCALIZAÇÃO", "endereco": "/composition/columns/5/connect", "larguraDp": 140, "alturaDp": 48 }
 
   ],
 "cores": {
