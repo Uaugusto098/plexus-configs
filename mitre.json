@@ -3,7 +3,7 @@
   "botoes": [
     { "nome": "PROJETISTAS", "endereco": "/composition/columns/1/connect", "larguraDp": 190, "alturaDp": 60 },
     { "nome": "PERSPECTIVAS", "endereco": "/composition/columns/3/connect", "larguraDp": 190, "alturaDp": 60 },
-    { "nome": "LOCALIZAÇÃO", "endereco": "/composition/columns/5/connect", "larguraDp": 140, "alturaDp": 48 }
+    { "nome": "LOCALIZAÇÃO", "endereco": "/composition/columns/5/connect", "larguraDp": 190, "alturaDp": 60 }
 
   ],
 "cores": {
