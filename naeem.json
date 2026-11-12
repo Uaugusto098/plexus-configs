@@ -1,0 +1,11 @@
+{
+  "osc": { "ip": "10.0.0.5", "porta": 9010 },
+  "botoes": [
+    { "nome": "STANDBY", "endereco": "/1"},
+    { "nome": "CONCEITO", "endereco": "/2"},
+    { "nome": "LANÇAMENTO", "endereco": "/3"},
+    { "nome": "RUN", "endereco": "/4"},
+    { "nome": "EXPERIENCE", "endereco": "/5"},
+    { "nome": "AUXILIAR", "endereco": "/6"}
+]
+}
